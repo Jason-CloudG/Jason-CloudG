@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jason-CloudG
 - 👀 I’m interested in ... Cloud Workloads
-- 🌱 I’m currently learning ... Docker, kubernetes
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning ... Docker, kubernetes, terraform
+- 💞️ I’m looking to collaborate on ... AI & ML
 - 📫 How to reach me ... email me at venkateshkecit@gmail.com
 
 <!---

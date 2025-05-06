@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jason-CloudG
-- 👀 I’m interested in ... Cloud Migration Workloads
+- 👀 I’m interested in ... Cloud Migration Workloads, Terraform and AI related workloads
 - 🌱 I’m currently learning ... Docker, terraform
 - 💞️ I’m looking to collaborate on ... AI & ML
 - 📫 How to reach me ... email me at venkateshkecit@gmail.com
